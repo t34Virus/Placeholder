@@ -1,0 +1,69 @@
+[{
+	"intro" : [
+		{
+			"copy":"The future of work <br>is <span>fluid</span>"
+		},
+		{
+			"copy":"It takes leadership <br>and ingenuity to build<br>a <span>resilient business</span>"
+		},
+		{
+			"copy":"A smarter buisness <br>that's built for <span>change</span>"
+		},
+		{
+			"copy":"A buisness that rethinks <br><span>how work gets done</span>"
+		},
+		{
+			"copy":"Launching <br><span>Smarter Buisness...</span>"
+		}
+	],
+	"beats" : [
+		{
+			"copy" : "Change is <br>driven by <br><span>people</span>",
+			"background-color" : "cornflowerblue",
+			"color" : "black",
+			"animation" : "pulsing-orbit",
+			"audio" : "path/to/audio1"
+		},
+		{
+			"copy" : "People <br>empowered by <br><span>new ways to work</span>",
+			"background-color" : "white",
+			"color" : "black",
+			"animation" : "expanding-squares",
+			"audio" : "path/to/audio2"
+		},
+		{
+			"copy" : "New ways to <br>work that propel <br><span>workflows</span>",
+			"background-color" : "black",
+			"color" : "white",
+			"animation" : "pulsing-orbit-squares",
+			"audio" : "path/to/audio3"
+		},
+		{
+			"copy" : "Workflows <br>that elevate <br><span>outcomes</span>",
+			"background-color" : "cornflowerblue",
+			"color" : "black",
+			"animation" : "spinning-square-outlines",
+			"audio" : "path/to/audio4"
+		},
+		{
+			"copy" : "Outcomes <br>that drive <br><span>smarter business</span>",
+			"background-color" : "white",
+			"color" : "black",
+			"animation" : "connected-dots",
+			"audio" : "path/to/audio5"
+		},
+		{
+			"copy" : "Smarter business <br>that's built for <br><span>change</span>",
+			"background-color" : "black",
+			"color" : "white",
+			"animation" : "3d-cubes",
+			"audio" : "path/to/audio6"
+		}
+	],
+	"finale" : [
+		{
+			"copy" : "Set off a ripple <br>effect in your <br>organization <br>today.",
+			"subcopy" : "Take a quick assessment for next steps <br>Talk to an IBM Expert <br>Visit the IBM Garage <br> <span>Learn more about:</span><br> Creating innovative experiences <br> Designing intelligent workflows with AI <br>Empowering employees with a culture of <br>continuous learning and upscaling"
+		}
+	]
+}]
